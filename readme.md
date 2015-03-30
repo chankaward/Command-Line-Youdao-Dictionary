@@ -1,24 +1,13 @@
-# 有道词典命令行版
+# Youdao Dictionary Command Line Tool
 
-这是一个ruby脚本，用来在命令行中直接查询单词含义，免去打开软件或浏览器的麻烦。
-支持英译中、中译英。
+## Installation
 
-## 使用方法
+```
+$ brew install --HEAD https://raw.githubusercontent.com/chankaward/Command-Line-Youdao-Dictionary/master/youdao-dict-cli.rb
+```
 
-  ~~~
-  ./dict <要查询的单词>
-  ~~~
+## Usage
 
-例如：
-  
-  ~~~shell
-  ./dict cake
-  ./dict 蛋糕
-  ~~~
-
-建议用alias简化，例如在$HOME/.bashrc或$HOME/.profile中加入
-
-  ~~~shell
-  alias d="/path/to/dict"
-  ~~~
-
+```
+$ dict foobar
+```
