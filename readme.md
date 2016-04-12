@@ -3,7 +3,7 @@
 ## Installation
 
 ```
-$ brew install --HEAD https://raw.githubusercontent.com/chankaward/Command-Line-Youdao-Dictionary/master/youdao-dict-cli.rb
+$ brew install --HEAD https://raw.githubusercontent.com/therealechan/Command-Line-Youdao-Dictionary/master/youdao-dict-cli.rb
 ```
 
 ## Usage
